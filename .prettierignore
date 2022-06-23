@@ -1,0 +1,10 @@
+node_modules
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+package.json
+.umi
+.umi-production
+.umi-test
+dist
